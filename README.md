@@ -13,9 +13,11 @@ Focused on building responsive web applications and practical software solutions
 
 ## About Me
 
-I am a Software Engineering student at **Kisii University, Kenya**, with an interest in frontend development, software engineering and building technology-driven solutions.
+I am a Software Engineering student at **Kisii University, Kenya**, with a strong interest in designing and developing web applications that solve real-world problems.
 
-I enjoy developing web applications, exploring modern technologies and working on projects that solve practical problems. I am continuously improving my technical skills through hands-on development, collaboration and independent learning.
+I am passionate about transforming ideas into practical digital solutions that address everyday challenges and improve how people interact with technology. I enjoy exploring new ideas, working on meaningful projects and continuously improving my software development skills.
+
+My goal is to become a skilled software engineer who builds innovative, scalable and impactful technology solutions.
 
 - Currently strengthening my skills in React and JavaScript.
 - Experienced in building user interfaces with HTML and CSS.
@@ -74,17 +76,6 @@ A client website developed to showcase entertainment products and services, with
 
 [View Live Website](https://daspar-sounds-and-entertainment.onrender.com/services.html)
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gfmwangi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfmwangi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=gfmwangi&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
 
 ## Connect With Me
 
