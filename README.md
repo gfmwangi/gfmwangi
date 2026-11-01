@@ -92,7 +92,7 @@ I welcome opportunities to connect with developers, collaborate on projects and 
 
 - **GitHub:** [github.com/gfmwangi](https://github.com/gfmwangi)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/faith-mwangi-a474b4329?)
-- **Email:** [yourprofessionalemail@gmail.com](mailto:glorymwangi181@@gmail.com)
+- **Email:** [glorymwangi181@gmail.com](mailto:glorymwangi181@@gmail.com)
 - **Location:** Nairobi, Kenya
 <div align="center">
 
